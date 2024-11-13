@@ -187,6 +187,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/avnishsharma1209/DSA-Task/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/0020-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/avnishsharma1209/DSA-Task/tree/master/0168-excel-sheet-column-title) |
 | [0383-ransom-note](https://github.com/avnishsharma1209/DSA-Task/tree/master/0383-ransom-note) |
 | [0459-repeated-substring-pattern](https://github.com/avnishsharma1209/DSA-Task/tree/master/0459-repeated-substring-pattern) |
@@ -257,4 +258,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/avnishsharma1209/DSA-Task/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
