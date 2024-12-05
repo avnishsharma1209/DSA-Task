@@ -138,6 +138,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/avnishsharma1209/DSA-Task/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/avnishsharma1209/DSA-Task/tree/master/0016-3sum-closest) |
@@ -201,6 +202,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/avnishsharma1209/DSA-Task/tree/master/0383-ransom-note) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
