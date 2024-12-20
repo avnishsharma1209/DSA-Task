@@ -222,6 +222,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0002-add-two-numbers](https://github.com/avnishsharma1209/DSA-Task/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/avnishsharma1209/DSA-Task/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/avnishsharma1209/DSA-Task/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/avnishsharma1209/DSA-Task/tree/master/0168-excel-sheet-column-title) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/avnishsharma1209/DSA-Task/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Dynamic Programming
@@ -240,6 +241,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/avnishsharma1209/DSA-Task/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Recursion
