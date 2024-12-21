@@ -143,6 +143,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/avnishsharma1209/DSA-Task/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
+| [0136-single-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avnishsharma1209/DSA-Task/tree/master/0463-island-perimeter) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
@@ -274,4 +275,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
