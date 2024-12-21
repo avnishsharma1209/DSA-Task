@@ -145,6 +145,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/avnishsharma1209/DSA-Task/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/avnishsharma1209/DSA-Task/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avnishsharma1209/DSA-Task/tree/master/0463-island-perimeter) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
@@ -173,6 +174,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0015-3sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/avnishsharma1209/DSA-Task/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/avnishsharma1209/DSA-Task/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/avnishsharma1209/DSA-Task/tree/master/2756-buy-two-chocolates) |
@@ -211,6 +213,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0001-two-sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/avnishsharma1209/DSA-Task/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/avnishsharma1209/DSA-Task/tree/master/0383-ransom-note) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
