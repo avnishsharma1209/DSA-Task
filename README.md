@@ -143,6 +143,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/avnishsharma1209/DSA-Task/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
+| [0066-plus-one](https://github.com/avnishsharma1209/DSA-Task/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0136-single-number) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avnishsharma1209/DSA-Task/tree/master/0463-island-perimeter) |
@@ -226,6 +227,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0002-add-two-numbers](https://github.com/avnishsharma1209/DSA-Task/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/avnishsharma1209/DSA-Task/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/avnishsharma1209/DSA-Task/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/avnishsharma1209/DSA-Task/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/avnishsharma1209/DSA-Task/tree/master/0168-excel-sheet-column-title) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/avnishsharma1209/DSA-Task/tree/master/1636-number-of-substrings-with-only-1s) |
