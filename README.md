@@ -146,6 +146,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0066-plus-one](https://github.com/avnishsharma1209/DSA-Task/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/avnishsharma1209/DSA-Task/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avnishsharma1209/DSA-Task/tree/master/0463-island-perimeter) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
@@ -175,6 +176,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/avnishsharma1209/DSA-Task/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/avnishsharma1209/DSA-Task/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
 | [2756-buy-two-chocolates](https://github.com/avnishsharma1209/DSA-Task/tree/master/2756-buy-two-chocolates) |
@@ -215,6 +217,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0001-two-sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/avnishsharma1209/DSA-Task/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/avnishsharma1209/DSA-Task/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/avnishsharma1209/DSA-Task/tree/master/0383-ransom-note) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
@@ -240,6 +243,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0202-happy-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/avnishsharma1209/DSA-Task/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/avnishsharma1209/DSA-Task/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Dynamic Programming
 |  |
@@ -259,6 +263,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/avnishsharma1209/DSA-Task/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Recursion
@@ -294,4 +299,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0136-single-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/avnishsharma1209/DSA-Task/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
