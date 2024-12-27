@@ -153,6 +153,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avnishsharma1209/DSA-Task/tree/master/0463-island-perimeter) |
+| [0575-distribute-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -233,6 +234,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/avnishsharma1209/DSA-Task/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/avnishsharma1209/DSA-Task/tree/master/0383-ransom-note) |
+| [0575-distribute-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0575-distribute-candies) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/avnishsharma1209/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
