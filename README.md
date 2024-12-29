@@ -290,6 +290,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0069-sqrtx](https://github.com/avnishsharma1209/DSA-Task/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/avnishsharma1209/DSA-Task/tree/master/0162-find-peak-element) |
+| [0222-count-complete-tree-nodes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -330,6 +331,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0136-single-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/avnishsharma1209/DSA-Task/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 ## Backtracking
@@ -349,4 +351,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/avnishsharma1209/DSA-Task/tree/master/0225-implement-stack-using-queues) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
