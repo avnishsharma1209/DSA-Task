@@ -143,6 +143,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/avnishsharma1209/DSA-Task/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/avnishsharma1209/DSA-Task/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/avnishsharma1209/DSA-Task/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/avnishsharma1209/DSA-Task/tree/master/0066-plus-one) |
@@ -195,6 +196,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0015-3sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/avnishsharma1209/DSA-Task/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/avnishsharma1209/DSA-Task/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/avnishsharma1209/DSA-Task/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/avnishsharma1209/DSA-Task/tree/master/0151-reverse-words-in-a-string) |
