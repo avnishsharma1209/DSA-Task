@@ -144,6 +144,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0016-3sum-closest](https://github.com/avnishsharma1209/DSA-Task/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/avnishsharma1209/DSA-Task/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/avnishsharma1209/DSA-Task/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/avnishsharma1209/DSA-Task/tree/master/0066-plus-one) |
@@ -337,6 +338,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/avnishsharma1209/DSA-Task/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0079-word-search) |
 ## Divide and Conquer
