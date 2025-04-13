@@ -220,6 +220,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0020-valid-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/avnishsharma1209/DSA-Task/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/avnishsharma1209/DSA-Task/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/avnishsharma1209/DSA-Task/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/avnishsharma1209/DSA-Task/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/avnishsharma1209/DSA-Task/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0079-word-search) |
@@ -269,6 +270,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0002-add-two-numbers](https://github.com/avnishsharma1209/DSA-Task/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/avnishsharma1209/DSA-Task/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/avnishsharma1209/DSA-Task/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/avnishsharma1209/DSA-Task/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/avnishsharma1209/DSA-Task/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/avnishsharma1209/DSA-Task/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0202-happy-number) |
@@ -340,6 +342,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/avnishsharma1209/DSA-Task/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/avnishsharma1209/DSA-Task/tree/master/0231-power-of-two) |
@@ -371,4 +374,8 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0222-count-complete-tree-nodes) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/avnishsharma1209/DSA-Task/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
