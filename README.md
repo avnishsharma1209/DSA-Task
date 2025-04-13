@@ -147,6 +147,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0039-combination-sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/avnishsharma1209/DSA-Task/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/avnishsharma1209/DSA-Task/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0079-word-search) |
@@ -278,6 +279,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/avnishsharma1209/DSA-Task/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0152-maximum-product-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
@@ -349,6 +351,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/avnishsharma1209/DSA-Task/tree/master/0169-majority-element) |
 ## Design
 |  |
