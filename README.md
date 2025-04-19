@@ -161,6 +161,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0189-rotate-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/avnishsharma1209/DSA-Task/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avnishsharma1209/DSA-Task/tree/master/0463-island-perimeter) |
 | [0561-array-partition](https://github.com/avnishsharma1209/DSA-Task/tree/master/0561-array-partition) |
@@ -215,6 +216,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0151-reverse-words-in-a-string](https://github.com/avnishsharma1209/DSA-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/avnishsharma1209/DSA-Task/tree/master/0908-middle-of-the-linked-list) |
@@ -312,6 +314,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0162-find-peak-element](https://github.com/avnishsharma1209/DSA-Task/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Recursion
@@ -356,6 +359,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0222-count-complete-tree-nodes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/avnishsharma1209/DSA-Task/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
 | ------- |
