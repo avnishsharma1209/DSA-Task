@@ -155,6 +155,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0073-set-matrix-zeroes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishsharma1209/DSA-Task/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/avnishsharma1209/DSA-Task/tree/master/0162-find-peak-element) |
@@ -300,6 +301,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0072-edit-distance](https://github.com/avnishsharma1209/DSA-Task/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishsharma1209/DSA-Task/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0152-maximum-product-subarray) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
