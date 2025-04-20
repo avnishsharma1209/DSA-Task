@@ -175,6 +175,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/avnishsharma1209/DSA-Task/tree/master/2211-k-radius-subarray-averages) |
+| [2634-minimum-common-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/avnishsharma1209/DSA-Task/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/avnishsharma1209/DSA-Task/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/avnishsharma1209/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -222,6 +223,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/avnishsharma1209/DSA-Task/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
+| [2634-minimum-common-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/2634-minimum-common-value) |
 | [3195-separate-black-and-white-balls](https://github.com/avnishsharma1209/DSA-Task/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
@@ -264,6 +266,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0575-distribute-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0575-distribute-candies) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
+| [2634-minimum-common-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/avnishsharma1209/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
@@ -319,6 +322,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2634-minimum-common-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/2634-minimum-common-value) |
 ## Recursion
 |  |
 | ------- |
