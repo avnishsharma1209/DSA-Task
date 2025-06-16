@@ -178,6 +178,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2048-build-array-from-permutation](https://github.com/avnishsharma1209/DSA-Task/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/avnishsharma1209/DSA-Task/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2211-k-radius-subarray-averages](https://github.com/avnishsharma1209/DSA-Task/tree/master/2211-k-radius-subarray-averages) |
 | [2634-minimum-common-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/2634-minimum-common-value) |
@@ -427,6 +428,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0067-add-binary](https://github.com/avnishsharma1209/DSA-Task/tree/master/0067-add-binary) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2048-build-array-from-permutation](https://github.com/avnishsharma1209/DSA-Task/tree/master/2048-build-array-from-permutation) |
 | [3651-transformed-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/3651-transformed-array) |
 ## Counting Sort
 |  |
