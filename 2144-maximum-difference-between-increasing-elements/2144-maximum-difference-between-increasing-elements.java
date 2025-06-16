@@ -5,14 +5,10 @@ class Solution {
             for(int j=i-1;j>=0;j--){
                 a=Math.max(a,nums[i]-nums[j]);
             }
-
-
         }
         if(a<=0){
             return -1;
         }
-        return a;
-        
-        
+        return a;    
     }
 }
