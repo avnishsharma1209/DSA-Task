@@ -8,10 +8,10 @@ class Solution {
 
 
         }
-        if(a<=0){
-            return -1;
+        if(a>0){
+            return a;
         }
-        return a;
+        return -1;
         
         
     }
