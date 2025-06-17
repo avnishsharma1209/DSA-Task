@@ -4,9 +4,11 @@ class Solution {
     Arrays.sort(s);
 
     int i = 0;
-    for (final int cookie : s)
-      if (i < g.length && g[i] <= cookie)
+    for (int j = 0; j < s.length; j++) {
+    int cookie = s[j];
+    if (i < g.length && g[i] <= cookie)
         ++i;
+}
 
     return i;
   }
