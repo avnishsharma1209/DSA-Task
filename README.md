@@ -198,6 +198,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0561-array-partition](https://github.com/avnishsharma1209/DSA-Task/tree/master/0561-array-partition) |
 | [0890-lemonade-change](https://github.com/avnishsharma1209/DSA-Task/tree/master/0890-lemonade-change) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/avnishsharma1209/DSA-Task/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/avnishsharma1209/DSA-Task/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2756-buy-two-chocolates](https://github.com/avnishsharma1209/DSA-Task/tree/master/2756-buy-two-chocolates) |
 | [3195-separate-black-and-white-balls](https://github.com/avnishsharma1209/DSA-Task/tree/master/3195-separate-black-and-white-balls) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/avnishsharma1209/DSA-Task/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -314,6 +315,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/avnishsharma1209/DSA-Task/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/avnishsharma1209/DSA-Task/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/avnishsharma1209/DSA-Task/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/avnishsharma1209/DSA-Task/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/avnishsharma1209/DSA-Task/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
