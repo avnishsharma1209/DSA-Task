@@ -327,6 +327,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/avnishsharma1209/DSA-Task/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/avnishsharma1209/DSA-Task/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/avnishsharma1209/DSA-Task/tree/master/3321-type-of-triangle) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -444,6 +445,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0067-add-binary](https://github.com/avnishsharma1209/DSA-Task/tree/master/0067-add-binary) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/avnishsharma1209/DSA-Task/tree/master/2048-build-array-from-permutation) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3651-transformed-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/3651-transformed-array) |
 ## Counting Sort
 |  |
@@ -478,4 +480,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1086-divisor-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
