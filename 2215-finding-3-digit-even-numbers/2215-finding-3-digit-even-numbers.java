@@ -16,12 +16,12 @@ class Solution {
                 }
             }
         }
-        int[] res = new int[result.size()];
+        int[] arr = new int[result.size()];
         List<Integer> list = new ArrayList<>(result);
         for (int i = 0; i < list.size(); i++){
-            res[i] = list.get(i);
+            arr[i] = list.get(i);
         }
-        return res;
+        return arr;
     }
 }
 
