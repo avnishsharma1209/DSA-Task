@@ -325,6 +325,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0231-power-of-two](https://github.com/avnishsharma1209/DSA-Task/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1086-divisor-game) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/avnishsharma1209/DSA-Task/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/avnishsharma1209/DSA-Task/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -481,10 +482,12 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1086-divisor-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/3511-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
