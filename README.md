@@ -244,6 +244,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
 | [2634-minimum-common-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/2634-minimum-common-value) |
 | [3195-separate-black-and-white-balls](https://github.com/avnishsharma1209/DSA-Task/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -269,6 +270,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1250-longest-common-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/avnishsharma1209/DSA-Task/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3195-separate-black-and-white-balls](https://github.com/avnishsharma1209/DSA-Task/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
 |  |
@@ -350,6 +352,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/avnishsharma1209/DSA-Task/tree/master/2215-finding-3-digit-even-numbers) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sliding Window
 |  |
 | ------- |
