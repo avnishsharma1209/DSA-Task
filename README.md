@@ -164,6 +164,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0169-majority-element](https://github.com/avnishsharma1209/DSA-Task/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/avnishsharma1209/DSA-Task/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -287,6 +288,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0202-happy-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/avnishsharma1209/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/avnishsharma1209/DSA-Task/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/avnishsharma1209/DSA-Task/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/avnishsharma1209/DSA-Task/tree/master/0290-word-pattern) |
@@ -359,6 +361,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0219-contains-duplicate-ii) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/avnishsharma1209/DSA-Task/tree/master/2211-k-radius-subarray-averages) |
 ## Binary Search
