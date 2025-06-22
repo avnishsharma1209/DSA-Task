@@ -263,6 +263,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0125-valid-palindrome](https://github.com/avnishsharma1209/DSA-Task/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/avnishsharma1209/DSA-Task/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/avnishsharma1209/DSA-Task/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/avnishsharma1209/DSA-Task/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avnishsharma1209/DSA-Task/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/avnishsharma1209/DSA-Task/tree/master/0290-word-pattern) |
@@ -323,6 +324,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0069-sqrtx](https://github.com/avnishsharma1209/DSA-Task/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/avnishsharma1209/DSA-Task/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/avnishsharma1209/DSA-Task/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/avnishsharma1209/DSA-Task/tree/master/0231-power-of-two) |
