@@ -16,7 +16,7 @@ class Solution {
                 j++;
             }
             else{
-                arr[j] = Integer.parseInt(operations[i]);
+                arr[j] = Integer.valueOf(operations[i]);
 
                 j++;
             }
