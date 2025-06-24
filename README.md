@@ -180,6 +180,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0948-sort-an-array) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
+| [1505-create-target-array-in-the-given-order](https://github.com/avnishsharma1209/DSA-Task/tree/master/1505-create-target-array-in-the-given-order) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/avnishsharma1209/DSA-Task/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -465,6 +466,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0067-add-binary](https://github.com/avnishsharma1209/DSA-Task/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/avnishsharma1209/DSA-Task/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0682-baseball-game) |
+| [1505-create-target-array-in-the-given-order](https://github.com/avnishsharma1209/DSA-Task/tree/master/1505-create-target-array-in-the-given-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/avnishsharma1209/DSA-Task/tree/master/2048-build-array-from-permutation) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/3511-find-the-winning-player-in-coin-game) |
