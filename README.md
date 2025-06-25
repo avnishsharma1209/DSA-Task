@@ -190,6 +190,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2144-maximum-difference-between-increasing-elements](https://github.com/avnishsharma1209/DSA-Task/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2211-k-radius-subarray-averages](https://github.com/avnishsharma1209/DSA-Task/tree/master/2211-k-radius-subarray-averages) |
 | [2215-finding-3-digit-even-numbers](https://github.com/avnishsharma1209/DSA-Task/tree/master/2215-finding-3-digit-even-numbers) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/avnishsharma1209/DSA-Task/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/avnishsharma1209/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/avnishsharma1209/DSA-Task/tree/master/2756-buy-two-chocolates) |
@@ -251,6 +252,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/avnishsharma1209/DSA-Task/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/avnishsharma1209/DSA-Task/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/avnishsharma1209/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2634-minimum-common-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/2634-minimum-common-value) |
 | [3195-separate-black-and-white-balls](https://github.com/avnishsharma1209/DSA-Task/tree/master/3195-separate-black-and-white-balls) |
@@ -486,6 +488,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [2048-build-array-from-permutation](https://github.com/avnishsharma1209/DSA-Task/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avnishsharma1209/DSA-Task/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/avnishsharma1209/DSA-Task/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/avnishsharma1209/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3651-transformed-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/3651-transformed-array) |
