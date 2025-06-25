@@ -244,6 +244,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0189-rotate-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/avnishsharma1209/DSA-Task/tree/master/0908-middle-of-the-linked-list) |
@@ -273,6 +274,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0242-valid-anagram](https://github.com/avnishsharma1209/DSA-Task/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/avnishsharma1209/DSA-Task/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/avnishsharma1209/DSA-Task/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/avnishsharma1209/DSA-Task/tree/master/0459-repeated-substring-pattern) |
 | [0657-robot-return-to-origin](https://github.com/avnishsharma1209/DSA-Task/tree/master/0657-robot-return-to-origin) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
@@ -361,6 +363,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishsharma1209/DSA-Task/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1086-divisor-game) |
