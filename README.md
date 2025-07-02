@@ -183,6 +183,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/avnishsharma1209/DSA-Task/tree/master/1137-height-checker) |
+| [1168-duplicate-zeros](https://github.com/avnishsharma1209/DSA-Task/tree/master/1168-duplicate-zeros) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avnishsharma1209/DSA-Task/tree/master/1505-create-target-array-in-the-given-order) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/avnishsharma1209/DSA-Task/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -260,6 +261,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0908-middle-of-the-linked-list](https://github.com/avnishsharma1209/DSA-Task/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0958-sort-array-by-parity-ii) |
+| [1168-duplicate-zeros](https://github.com/avnishsharma1209/DSA-Task/tree/master/1168-duplicate-zeros) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avnishsharma1209/DSA-Task/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/avnishsharma1209/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/2551-apply-operations-to-an-array) |
