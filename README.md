@@ -179,6 +179,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0890-lemonade-change](https://github.com/avnishsharma1209/DSA-Task/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0958-sort-array-by-parity-ii) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avnishsharma1209/DSA-Task/tree/master/1505-create-target-array-in-the-given-order) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
@@ -229,6 +230,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0561-array-partition](https://github.com/avnishsharma1209/DSA-Task/tree/master/0561-array-partition) |
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0958-sort-array-by-parity-ii) |
 | [2215-finding-3-digit-even-numbers](https://github.com/avnishsharma1209/DSA-Task/tree/master/2215-finding-3-digit-even-numbers) |
 | [2756-buy-two-chocolates](https://github.com/avnishsharma1209/DSA-Task/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/avnishsharma1209/DSA-Task/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -254,6 +256,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/avnishsharma1209/DSA-Task/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0958-sort-array-by-parity-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/avnishsharma1209/DSA-Task/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/avnishsharma1209/DSA-Task/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/2551-apply-operations-to-an-array) |
