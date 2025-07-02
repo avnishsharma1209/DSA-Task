@@ -294,6 +294,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1636-number-of-substrings-with-only-1s](https://github.com/avnishsharma1209/DSA-Task/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avnishsharma1209/DSA-Task/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/avnishsharma1209/DSA-Task/tree/master/3195-separate-black-and-white-balls) |
+| [3617-find-the-original-typed-string-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3617-find-the-original-typed-string-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Trie
