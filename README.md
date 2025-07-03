@@ -174,6 +174,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0561-array-partition](https://github.com/avnishsharma1209/DSA-Task/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0575-distribute-candies) |
 | [0682-baseball-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/avnishsharma1209/DSA-Task/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -453,6 +454,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0225-implement-stack-using-queues](https://github.com/avnishsharma1209/DSA-Task/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/avnishsharma1209/DSA-Task/tree/master/0739-daily-temperatures) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -553,4 +555,5 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/avnishsharma1209/DSA-Task/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
