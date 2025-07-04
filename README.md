@@ -189,6 +189,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1505-create-target-array-in-the-given-order](https://github.com/avnishsharma1209/DSA-Task/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/avnishsharma1209/DSA-Task/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/avnishsharma1209/DSA-Task/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -239,6 +240,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0948-sort-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/avnishsharma1209/DSA-Task/tree/master/1137-height-checker) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/avnishsharma1209/DSA-Task/tree/master/2215-finding-3-digit-even-numbers) |
 | [2756-buy-two-chocolates](https://github.com/avnishsharma1209/DSA-Task/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/avnishsharma1209/DSA-Task/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -525,6 +527,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
