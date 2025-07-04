@@ -187,6 +187,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1137-height-checker](https://github.com/avnishsharma1209/DSA-Task/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/avnishsharma1209/DSA-Task/tree/master/1168-duplicate-zeros) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avnishsharma1209/DSA-Task/tree/master/1505-create-target-array-in-the-given-order) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/avnishsharma1209/DSA-Task/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
