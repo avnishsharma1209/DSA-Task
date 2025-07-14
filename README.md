@@ -194,6 +194,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/avnishsharma1209/DSA-Task/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1651-shuffle-string](https://github.com/avnishsharma1209/DSA-Task/tree/master/1651-shuffle-string) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/avnishsharma1209/DSA-Task/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -314,6 +315,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1250-longest-common-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/avnishsharma1209/DSA-Task/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1651-shuffle-string](https://github.com/avnishsharma1209/DSA-Task/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avnishsharma1209/DSA-Task/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/avnishsharma1209/DSA-Task/tree/master/3195-separate-black-and-white-balls) |
 | [3617-find-the-original-typed-string-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3617-find-the-original-typed-string-i) |
