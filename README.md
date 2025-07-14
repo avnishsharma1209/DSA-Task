@@ -169,6 +169,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avnishsharma1209/DSA-Task/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/0496-next-greater-element-i) |
@@ -340,6 +341,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0383-ransom-note](https://github.com/avnishsharma1209/DSA-Task/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/avnishsharma1209/DSA-Task/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0575-distribute-candies) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1001-n-repeated-element-in-size-2n-array) |
