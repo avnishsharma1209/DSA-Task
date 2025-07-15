@@ -177,6 +177,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0496-next-greater-element-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/avnishsharma1209/DSA-Task/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/avnishsharma1209/DSA-Task/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
@@ -246,6 +247,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/avnishsharma1209/DSA-Task/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/avnishsharma1209/DSA-Task/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0958-sort-array-by-parity-ii) |
@@ -348,6 +350,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0594-longest-harmonious-subsequence) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
@@ -360,6 +363,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0169-majority-element](https://github.com/avnishsharma1209/DSA-Task/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/avnishsharma1209/DSA-Task/tree/master/0383-ransom-note) |
+| [0594-longest-harmonious-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0594-longest-harmonious-subsequence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/avnishsharma1209/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String Matching
@@ -424,6 +428,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0594-longest-harmonious-subsequence) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [2211-k-radius-subarray-averages](https://github.com/avnishsharma1209/DSA-Task/tree/master/2211-k-radius-subarray-averages) |
 ## Binary Search
