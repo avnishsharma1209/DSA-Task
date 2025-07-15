@@ -172,6 +172,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avnishsharma1209/DSA-Task/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/avnishsharma1209/DSA-Task/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/avnishsharma1209/DSA-Task/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0575-distribute-candies) |
