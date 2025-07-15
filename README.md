@@ -173,6 +173,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/avnishsharma1209/DSA-Task/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/avnishsharma1209/DSA-Task/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/avnishsharma1209/DSA-Task/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/avnishsharma1209/DSA-Task/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0575-distribute-candies) |
@@ -521,6 +522,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/avnishsharma1209/DSA-Task/tree/master/0067-add-binary) |
+| [0495-teemo-attacking](https://github.com/avnishsharma1209/DSA-Task/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/avnishsharma1209/DSA-Task/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avnishsharma1209/DSA-Task/tree/master/1505-create-target-array-in-the-given-order) |
