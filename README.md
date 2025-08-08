@@ -320,6 +320,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1250-longest-common-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/avnishsharma1209/DSA-Task/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/avnishsharma1209/DSA-Task/tree/master/1651-shuffle-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/avnishsharma1209/DSA-Task/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/avnishsharma1209/DSA-Task/tree/master/3195-separate-black-and-white-balls) |
@@ -488,6 +489,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0496-next-greater-element-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/avnishsharma1209/DSA-Task/tree/master/0739-daily-temperatures) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
