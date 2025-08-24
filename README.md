@@ -217,6 +217,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [3242-count-elements-with-maximum-frequency](https://github.com/avnishsharma1209/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3321-type-of-triangle](https://github.com/avnishsharma1209/DSA-Task/tree/master/3321-type-of-triangle) |
 | [3463-alternating-groups-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/3483-alternating-groups-ii) |
 | [3651-transformed-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/3651-transformed-array) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
@@ -438,6 +439,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/avnishsharma1209/DSA-Task/tree/master/2211-k-radius-subarray-averages) |
 | [3463-alternating-groups-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/3483-alternating-groups-ii) |
 ## Binary Search
 |  |
 | ------- |
