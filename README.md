@@ -419,6 +419,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishsharma1209/DSA-Task/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/avnishsharma1209/DSA-Task/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0392-is-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/1013-fibonacci-number) |
@@ -503,6 +504,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0231-power-of-two](https://github.com/avnishsharma1209/DSA-Task/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/avnishsharma1209/DSA-Task/tree/master/0338-counting-bits) |
 ## Backtracking
 |  |
 | ------- |
