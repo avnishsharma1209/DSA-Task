@@ -180,6 +180,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0594-longest-harmonious-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/avnishsharma1209/DSA-Task/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/avnishsharma1209/DSA-Task/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -423,6 +424,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0152-maximum-product-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/avnishsharma1209/DSA-Task/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0392-is-subsequence) |
+| [0747-min-cost-climbing-stairs](https://github.com/avnishsharma1209/DSA-Task/tree/master/0747-min-cost-climbing-stairs) |
 | [0875-longest-mountain-in-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/0875-longest-mountain-in-array) |
 | [1013-fibonacci-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1086-divisor-game) |
