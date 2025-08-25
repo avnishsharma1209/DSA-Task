@@ -13,13 +13,13 @@ class Solution {
             return;
         }
         
-        if (open < max) {
+        if (open < max  && open < max) {
             current.append("(");
             backtrack(result, current, open + 1, close, max);
             current.setLength(current.length() - 1);
         }
         
-        if (close < open) {
+        if (close < open && close < max) {
             current.append(")");
             backtrack(result, current, open, close + 1, max);
             current.setLength(current.length() - 1);
