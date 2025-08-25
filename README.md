@@ -298,6 +298,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0013-roman-to-integer](https://github.com/avnishsharma1209/DSA-Task/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/avnishsharma1209/DSA-Task/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/avnishsharma1209/DSA-Task/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/avnishsharma1209/DSA-Task/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/avnishsharma1209/DSA-Task/tree/master/0058-length-of-last-word) |
@@ -411,6 +412,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/avnishsharma1209/DSA-Task/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/avnishsharma1209/DSA-Task/tree/master/0070-climbing-stairs) |
@@ -508,6 +510,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/avnishsharma1209/DSA-Task/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/avnishsharma1209/DSA-Task/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0079-word-search) |
