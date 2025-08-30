@@ -195,6 +195,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1137-height-checker](https://github.com/avnishsharma1209/DSA-Task/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/avnishsharma1209/DSA-Task/tree/master/1168-duplicate-zeros) |
 | [1505-create-target-array-in-the-given-order](https://github.com/avnishsharma1209/DSA-Task/tree/master/1505-create-target-array-in-the-given-order) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/avnishsharma1209/DSA-Task/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/avnishsharma1209/DSA-Task/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -365,6 +366,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0594-longest-harmonious-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0594-longest-harmonious-subsequence) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1044-find-common-characters) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2215-finding-3-digit-even-numbers](https://github.com/avnishsharma1209/DSA-Task/tree/master/2215-finding-3-digit-even-numbers) |
@@ -378,6 +380,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0383-ransom-note](https://github.com/avnishsharma1209/DSA-Task/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/avnishsharma1209/DSA-Task/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/avnishsharma1209/DSA-Task/tree/master/0594-longest-harmonious-subsequence) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/avnishsharma1209/DSA-Task/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/avnishsharma1209/DSA-Task/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/avnishsharma1209/DSA-Task/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
