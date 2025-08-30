@@ -201,6 +201,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [1651-shuffle-string](https://github.com/avnishsharma1209/DSA-Task/tree/master/1651-shuffle-string) |
 | [1813-maximum-erasure-value](https://github.com/avnishsharma1209/DSA-Task/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/avnishsharma1209/DSA-Task/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/avnishsharma1209/DSA-Task/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/avnishsharma1209/DSA-Task/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/avnishsharma1209/DSA-Task/tree/master/2058-concatenation-of-array) |
@@ -234,6 +235,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0979-di-string-match](https://github.com/avnishsharma1209/DSA-Task/tree/master/0979-di-string-match) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/avnishsharma1209/DSA-Task/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/avnishsharma1209/DSA-Task/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1938-minimum-operations-to-make-the-array-increasing](https://github.com/avnishsharma1209/DSA-Task/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/avnishsharma1209/DSA-Task/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2756-buy-two-chocolates](https://github.com/avnishsharma1209/DSA-Task/tree/master/2756-buy-two-chocolates) |
 | [3195-separate-black-and-white-balls](https://github.com/avnishsharma1209/DSA-Task/tree/master/3195-separate-black-and-white-balls) |
