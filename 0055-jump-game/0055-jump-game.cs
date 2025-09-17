@@ -7,5 +7,7 @@ public class Solution {
             if (maxReach >= nums.Length - 1) return true;
         }
         return true;
+        
+        
     }
 }
