@@ -151,6 +151,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/avnishsharma1209/DSA-Task/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/avnishsharma1209/DSA-Task/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/avnishsharma1209/DSA-Task/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/avnishsharma1209/DSA-Task/tree/master/0079-word-search) |
@@ -228,6 +229,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | ------- |
 | [0011-container-with-most-water](https://github.com/avnishsharma1209/DSA-Task/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/avnishsharma1209/DSA-Task/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/avnishsharma1209/DSA-Task/tree/master/0455-assign-cookies) |
@@ -426,6 +428,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0022-generate-parentheses](https://github.com/avnishsharma1209/DSA-Task/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/avnishsharma1209/DSA-Task/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/avnishsharma1209/DSA-Task/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/avnishsharma1209/DSA-Task/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/avnishsharma1209/DSA-Task/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/avnishsharma1209/DSA-Task/tree/master/0118-pascals-triangle) |
