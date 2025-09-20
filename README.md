@@ -410,6 +410,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0263-ugly-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/avnishsharma1209/DSA-Task/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/avnishsharma1209/DSA-Task/tree/master/1086-divisor-game) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/avnishsharma1209/DSA-Task/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -522,6 +523,7 @@ Subarrays are contiguous parts of an array, and different categories of subarray
 | [0268-missing-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/avnishsharma1209/DSA-Task/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/avnishsharma1209/DSA-Task/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/avnishsharma1209/DSA-Task/tree/master/0371-sum-of-two-integers) |
 ## Backtracking
 |  |
 | ------- |
